@@ -1,0 +1,73 @@
+span {
+    color: cornsilk;
+    margin-right: 50px;
+}
+img {
+    border-radius: 50%;
+}
+table {
+    width: 100%;
+    text-align: center;
+}
+#header {
+    background-color: black;
+    height: 70px;
+}
+
+#brand {
+    width: 40%;
+    float: left;
+    height: 70px;
+    text-align: center;
+    color: white;
+}
+#menu {
+    text-align: center;
+    width: 60%;
+    float: right;
+    height: 70px;
+    line-height: 70px;   
+}
+#main-left {
+    width: 40%;
+    float: left;
+    text-align: center;
+    margin-top: 30px;   
+    border-radius: 50%;     
+}
+#main-right {
+    width: 60%;
+    float: right;
+    height: 400px;
+    text-align: left;
+    margin-top:30px;
+
+}
+
+img
+{
+    border-radius: 250%;
+    margin-left: 100px;
+    
+}
+
+
+#footer 
+{
+    text-align: center;
+    background-color: black;
+    padding: 25px;
+    color: white;
+    border-radius: 25%;
+    
+}
+#radius
+{
+    border-radius: 25%;
+}
+/*#listImages
+{
+    margin-top: 5px;
+   
+}/
+
